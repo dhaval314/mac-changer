@@ -14,13 +14,13 @@ A Python3 utility to spoof MAC addresses on Linux. Includes features like random
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.x
 - Kali Linux or any Linux with `ip` and `ifconfig`
 - `colorama` Python module
 
-### 📥 Installing Dependencies
+### Installing Dependencies
 
 Create a virtual environment (recommended):
 
